@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+	font: inherit;
+}
+
+.container {
+  margin: 15% 25%;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px solid #BC986A;
+  background-color: rgb(127, 202, 245);
+}
+
+h5 {
+  margin: 5% 15%;
+  border-bottom: 1px solid #DAAD86;
+}
+
+input {
+  margin: 0 0 10px;
+  border: 1px solid #DAAD86;
+  border-radius: 5px;
+}
+
+.list {
+  display: flex;
+  text-align: left;
+  list-style: none;
+  padding-top: 10px;
+  margin: 0 15px 15px ;
+  border-top: 1px solid #DAAD86;
+}
+
+p {
+  width: 225px;
+}
+
+button {
+  width: 25px;
+  height: 25px;
+  margin-left: 1%;
+  border-radius: 50%;
+  background-color: #FBEEC1;
+  border: 1px solid #DAAD86;
+}
